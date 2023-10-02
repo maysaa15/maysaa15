@@ -1,16 +1,14 @@
-### Hi there 👋
+### olá, bem vindos ao meu perfil
 
-<!--
-**maysaa15/maysaa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aluna Maysa Gabriela 
 
-Here are some ideas to get you started:
+- Sou aluna do 1° ano A do integral
+- 
+- Desenvolvimento da linguagem JavaScrip,HTML,CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ### Para entrar em ctt comigo
+- 
+- maysa.peres.silva@escola.pr.gov.br
+
+  @maysa_gab
